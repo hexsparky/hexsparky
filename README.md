@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![github-header-image](https://github.com/hexsparky/hexsparky/assets/152810042/5b6109eb-ae12-46ac-8bcd-e900b19cb12a)
+
+
+
 <!--
 **hexsparky/hexsparky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
