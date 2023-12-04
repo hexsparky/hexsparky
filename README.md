@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![github-header-image (1)](https://github.com/hexsparky/hexsparky/assets/152810042/c4518695-fad5-4c59-b107-1136f98b6baa)
+![github-header-image (3)](https://github.com/hexsparky/hexsparky/assets/152810042/501a391a-031f-4a57-8e48-ca2bc86da136)
+
 
 
 
